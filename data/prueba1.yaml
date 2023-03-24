@@ -1,0 +1,7 @@
+train: /home/joyeheba/Documents/Mi proyecto de grado/dataset/images/train 
+val: /home/joyeheba/Documents/Mi proyecto de grado/dataset/images/val
+
+#Classes
+
+nc: 1 
+names: ['gun']
